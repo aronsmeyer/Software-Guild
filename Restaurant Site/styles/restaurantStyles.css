@@ -1,0 +1,53 @@
+h1 {
+font-size: 3em;
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+
+}
+
+h2 {
+  text-align: center;
+}
+
+.index-table {
+  text-align: center;
+  margin: auto;
+}
+
+.menu-items {
+  text-align: center;
+}
+
+.menu_heading {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 30px;
+  font-size: 1.2em;
+}
+
+a:visited {
+  color: #919c9e;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+label {
+  font-weight: bold;
+}
+header, footer {
+  color: #16537e;
+  background-color: #fff2cc;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+
+.btn-primary {
+  background-color: #a64d79;
+  margin: 5px 10px 5px 10px;
+
+}
