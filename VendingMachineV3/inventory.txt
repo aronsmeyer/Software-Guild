@@ -1,0 +1,8 @@
+1A::Pepsi::2.90::1
+2B::Animal Crackers::1.47::0
+1B::Swedish Fish::2.22::1
+2C::Coke::2.91::0
+1C::Pretzels::1.63::1
+2D::Snickers::1.13::1
+1D::Ham Sandwich::4.81::1
+2A::Sour Patch Kids::2.92::1
